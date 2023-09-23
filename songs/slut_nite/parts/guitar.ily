@@ -1,3 +1,7 @@
+\gridPutMusic "guitar" 1 \relative c' {
+  R1*2
+}
+
 \gridPutMusic "guitar" 2 \relative c' {
   \include "../notes/guitar-II.ily"
 }
