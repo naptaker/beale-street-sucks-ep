@@ -108,7 +108,7 @@ pageNumberColor = #(if (defined? 'pageNumberColor) pageNumberColor black)
 %%% =================================================================== [ Grid ]
 
 \templateInit
-#'("meta" "bass")
+#'("meta" "bass" "drums up" "drums down")
 #'(10 16 16 16 16 18 16 (1 . 4))
 
 %% \include "parts/lyrics.ily"
