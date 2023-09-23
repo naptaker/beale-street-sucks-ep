@@ -17,8 +17,10 @@ f8 d4 a8 c cis d c |
 d4 d8 des c4.\prall a8 ~ |
 a8 aes4 g f4. |
 d'4 d8 des c4.\prall a8 ~ |
-a8 f4 g gis a |
+a8 f4 g gis a8 |
 c8( d) d des c4.\prall a8 ~ |
 a8 aes4 g f4. |
+\ottava #1
 r4 d''8 a c d4 f8 ~ |
 f8 d4 a8 c cis d4 |
+\ottava #0
